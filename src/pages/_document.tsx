@@ -7,7 +7,6 @@ export default class MyDocument extends Document{
                 <Head>
                     <link rel="preconnect" href="https://fonts.gstatic.com" />
                     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Righteous&family=Roboto:wght@400;700;900&family=Sarala:wght@400;700&display=swap" rel="stylesheet"/>
-                    <title>ig.news</title>
                 </Head>
                 <body>
                    <Main />
